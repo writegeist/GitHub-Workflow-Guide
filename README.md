@@ -1,5 +1,5 @@
 # GitHub Workflow Guide
-A guide for Git/GitHub workflows for beginners
+A Git/GitHub workflows guide for beginners
 
 This guide introduces beginners to Git/GitHub workflows with practical examples and best practices.
 ## Getting Started with Git
