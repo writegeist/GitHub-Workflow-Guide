@@ -8,8 +8,8 @@ This guide introduces beginners to Git/GitHub workflows with practical examples 
 
 ## Basic Commands
 
-Text
+[Basic Commands](Basic_Commands.md)
 
 ## Branching and Merging
 
-Text
+[Branching and Merging](Branching_and_Merging.md)
