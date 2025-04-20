@@ -8,14 +8,14 @@ Git can be installed on most operating systems. Visit the official Git website [
 ### Step 2: Configure Git
 After installing Git, you'll need to configure it with your username and email address. Open a terminal or command prompt and run the following commands:
 
-'git config --global user.name "Your Name" git config --global user.email "your.email@example.com"'
+`git config --global user.name "Your Name" git config --global user.email "your.email@example.com"`
 
 This information will be included in your commits and help identify changes made by you.
 
 ### Step 3: Verify Installation
 To verify that Git is installed correctly, run the following command:
 
-'git --version'
+`git --version`
 
 If Git is installed, this command displays the installed version.
 
@@ -24,11 +24,11 @@ A repository is where your project files are stored. To create a repository, run
 
 1. Navigate to the folder you want to turn into a Git repository:
 
-'cd path/to/your/folder'
+`cd path/to/your/folder`
 
 2. Initialize the repository:
 
-'git init'
+`git init`
 
 Now, the folder is a Git repository, and you can start tracking changes.
 
